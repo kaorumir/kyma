@@ -1,0 +1,2 @@
+sap.ui.define(["sap/dm/dme/podfoundation/component/production/ProductionUIComponent","sap/ui/Device"],function(n,t){"use strict";return n.extend("kyma.test.plugin.kymaTest.kymaTest.Component",{metadata:{manifest:"json"}})});
+//# sourceMappingURL=Component.js.map

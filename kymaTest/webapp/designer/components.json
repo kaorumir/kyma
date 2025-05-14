@@ -1,0 +1,15 @@
+{
+	"components": [
+		{
+			"id": "kymaTest",
+			"type": "VIEW_PLUGIN",
+			"allowMultipleInstances": false,
+			"name": "kyma.test.plugin.kymaTest.kymaTest",
+			"propertyEditor": "kyma.test.plugin.kymaTest.kymaTest.builder.PropertyEditor",
+			"i18n": "kyma.test.plugin.kymaTest.kymaTest.i18n.i18n",
+            "productionProcessEnabled": true,
+           "productionProcessTitle": "kymaTest",
+			"supportedPodTypes": ["WORK_CENTER","OPERATION","ORDER","OTHER"]
+		}   
+	]
+}

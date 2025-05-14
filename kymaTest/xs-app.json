@@ -1,0 +1,14 @@
+{
+  "welcomeFile": "/kymaTest/index.html",
+  "authenticationMethod": "none",
+  "logout": {
+    "logoutEndpoint": "/do/logout"
+  },
+  "routes": [
+    {
+      "source": "^/kymaTest/(.*)$",
+      "target": "$1",
+      "localDir": "webapp"
+    }
+  ]
+}
